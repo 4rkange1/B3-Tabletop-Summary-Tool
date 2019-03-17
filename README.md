@@ -2,6 +2,8 @@
 A tool to create a tabletop summary image for articles and reviews. Please leave feedback for improvements, code-related or otherwise.
 
 ## Usage
+### Installation
+Short-term, just download and run the EXE from this repo or, if you've downloaded the project, build it yourself. When I get time, I'll provide an MSI installer.
 ### Entering information
 To use the tool, just type information about the game you're writing about into the relevant boxes. Long entries will automatically resize the font, but save space where you can and consider hyphenating long words (with the hypen going at the end of the split first line).
 ### Saving the image
